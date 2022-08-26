@@ -1,7 +1,7 @@
 # oci-python-sdk-samples
 Just a few samples on how to use the OCI python sdk
 
-This repository is the code used in this blog entry <TODO>
+The repository is the code used in this blog entry https://medium.com/@carlgira/oci-python-sdk-78d051dbf070
     
 ## Run notebook 
 
