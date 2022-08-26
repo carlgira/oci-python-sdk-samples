@@ -1,4 +1,5 @@
 <img src="img/emea-wedo.png" alt="WEDO" width="400"/>
+
 # oci-python-sdk-samples
 Just a few samples on how to use the OCI python sdk
 
